@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vedantDube/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vedantDube/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/vedantDube/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/vedantDube/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/vedantDube/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vedantDube/Leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/vedantDube/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vedantDube/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/vedantDube/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
