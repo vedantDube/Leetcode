@@ -6,9 +6,9 @@ public:
 
         while(n>0){
             int a = n%10;
+            n = n/10;
             multiply = multiply*a;
             sum = sum +a;
-            n = n/10;
         }
         int ans = multiply - sum;
         return ans;
