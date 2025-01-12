@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vedantDube/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vedantDube/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/vedantDube/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vedantDube/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vedantDube/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/vedantDube/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/vedantDube/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0792-binary-search) |
