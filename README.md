@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vedantDube/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vedantDube/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vedantDube/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vedantDube/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vedantDube/Leetcode/tree/master/0136-single-number) |
@@ -116,5 +117,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vedantDube/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vedantDube/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/vedantDube/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
