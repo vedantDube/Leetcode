@@ -12,7 +12,7 @@ public:
         }
 
         for (int i = 1; i <= size * size; i++) {
-            if (freq.count(i) < 1) {
+            if (!freq.count(i)) {
                 a = i;
             } else if (freq[i] == 2) {
                 b = i;
