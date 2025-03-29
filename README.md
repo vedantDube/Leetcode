@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/vedantDube/Leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedantDube/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/vedantDube/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vedantDube/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantDube/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/vedantDube/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedantDube/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantDube/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/vedantDube/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vedantDube/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vedantDube/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vedantDube/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/vedantDube/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
