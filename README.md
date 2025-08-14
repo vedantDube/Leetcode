@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/vedantDube/Leetcode/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/vedantDube/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vedantDube/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vedantDube/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedantDube/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vedantDube/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/vedantDube/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/vedantDube/Leetcode/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/vedantDube/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedantDube/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vedantDube/Leetcode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedantDube/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/vedantDube/Leetcode/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/vedantDube/Leetcode/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
