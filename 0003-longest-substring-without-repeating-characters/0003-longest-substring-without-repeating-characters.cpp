@@ -1,24 +1,23 @@
+#include <string>
+#include <algorithm>
+
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
-        int n = s.length();
-        int maxLength = 0;
-        unordered_set<char> st;
-        int left = 0;
-
-        for(int i = 0;i<n;i++){
-            if(st.count(s[i])==0){
-                st.insert(s[i]);
-                maxLength = max(maxLength,i-left+1);
+    int lengthOfLongestSubstring(std::string s) {
+        if(s.empty()) return 0;
+        if(s.size() == 1) return 1;
+        
+        int ans = INT_MIN;
+        std::string tmp = "";
+        
+        for(auto x : s) {
+            if(std::find(tmp.begin(), tmp.end(), x) != tmp.end()) {
+                tmp = tmp.substr(tmp.find(x) + 1);
             }
-            else{
-                while(st.count(s[i])){
-                    st.erase(s[left]);
-                    left++;
-                }
-                st.insert(s[i]);
-            }
+            tmp += x;
+            ans = std::max(ans, static_cast<int>(tmp.length()));
         }
-        return maxLength;
+        
+        return ans;
     }
 };
