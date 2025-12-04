@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vedantDube/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vedantDube/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedantDube/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedantDube/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/vedantDube/Leetcode/tree/master/0542-01-matrix) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vedantDube/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vedantDube/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vedantDube/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/vedantDube/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vedantDube/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vedantDube/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/vedantDube/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vedantDube/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vedantDube/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vedantDube/Leetcode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/vedantDube/Leetcode/tree/master/1448-maximum-69-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vedantDube/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
