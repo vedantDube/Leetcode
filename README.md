@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedantDube/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vedantDube/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vedantDube/Leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vedantDube/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vedantDube/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2580-circular-sentence](https://github.com/vedantDube/Leetcode/tree/master/2580-circular-sentence) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vedantDube/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedantDube/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantDube/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vedantDube/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedantDube/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vedantDube/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vedantDube/Leetcode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vedantDube/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantDube/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/vedantDube/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
