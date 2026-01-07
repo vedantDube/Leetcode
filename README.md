@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vedantDube/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vedantDube/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vedantDube/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/vedantDube/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vedantDube/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vedantDube/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedantDube/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedantDube/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedantDube/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vedantDube/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantDube/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedantDube/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedantDube/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedantDube/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/vedantDube/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vedantDube/Leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/vedantDube/Leetcode/tree/master/0455-assign-cookies) |
