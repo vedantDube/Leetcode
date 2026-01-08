@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/vedantDube/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vedantDube/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantDube/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/vedantDube/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vedantDube/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/vedantDube/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantDube/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantDube/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vedantDube/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/vedantDube/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vedantDube/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantDube/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1876-map-of-highest-peak](https://github.com/vedantDube/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedantDube/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Enumeration
