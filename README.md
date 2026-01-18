@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vedantDube/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vedantDube/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vedantDube/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/vedantDube/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedantDube/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vedantDube/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vedantDube/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vedantDube/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/vedantDube/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2580-circular-sentence](https://github.com/vedantDube/Leetcode/tree/master/2580-circular-sentence) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantDube/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vedantDube/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedantDube/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vedantDube/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vedantDube/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vedantDube/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
 ## Geometry
 |  |
 | ------- |
