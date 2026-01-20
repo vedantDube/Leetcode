@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantDube/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vedantDube/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedantDube/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/vedantDube/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vedantDube/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vedantDube/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vedantDube/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/vedantDube/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Sorting
 |  |
 | ------- |
