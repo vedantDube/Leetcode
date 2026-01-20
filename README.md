@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/vedantDube/Leetcode/tree/master/1036-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/vedantDube/Leetcode/tree/master/1046-last-stone-weight) |
 | [1073-number-of-enclaves](https://github.com/vedantDube/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vedantDube/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantDube/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/vedantDube/Leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
