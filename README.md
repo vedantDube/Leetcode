@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/vedantDube/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/vedantDube/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vedantDube/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vedantDube/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vedantDube/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vedantDube/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vedantDube/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vedantDube/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Sorting
 |  |
 | ------- |
