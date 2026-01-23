@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vedantDube/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vedantDube/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vedantDube/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0312-burst-balloons](https://github.com/vedantDube/Leetcode/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/vedantDube/Leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/vedantDube/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vedantDube/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vedantDube/Leetcode/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/vedantDube/Leetcode/tree/master/0312-burst-balloons) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantDube/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/vedantDube/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vedantDube/Leetcode/tree/master/0485-max-consecutive-ones) |
