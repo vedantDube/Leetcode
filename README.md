@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vedantDube/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vedantDube/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/vedantDube/Leetcode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/vedantDube/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vedantDube/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vedantDube/Leetcode/tree/master/0739-daily-temperatures) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantDube/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vedantDube/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/vedantDube/Leetcode/tree/master/0645-set-mismatch) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedantDube/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vedantDube/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/vedantDube/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/vedantDube/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/vedantDube/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/vedantDube/Leetcode/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/vedantDube/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vedantDube/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/vedantDube/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/vedantDube/Leetcode/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/vedantDube/Leetcode/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/vedantDube/Leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedantDube/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
