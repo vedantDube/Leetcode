@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/vedantDube/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/vedantDube/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0636-exclusive-time-of-functions](https://github.com/vedantDube/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/vedantDube/Leetcode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/vedantDube/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/vedantDube/Leetcode/tree/master/0733-flood-fill) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vedantDube/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vedantDube/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vedantDube/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0636-exclusive-time-of-functions](https://github.com/vedantDube/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/vedantDube/Leetcode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vedantDube/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vedantDube/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
