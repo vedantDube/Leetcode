@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/vedantDube/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/vedantDube/Leetcode/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/vedantDube/Leetcode/tree/master/0312-burst-balloons) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vedantDube/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vedantDube/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vedantDube/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/vedantDube/Leetcode/tree/master/0455-assign-cookies) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/vedantDube/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/vedantDube/Leetcode/tree/master/1046-last-stone-weight) |
 ## Merge Sort
