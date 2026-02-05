@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vedantDube/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vedantDube/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
+| [0482-license-key-formatting](https://github.com/vedantDube/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/vedantDube/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vedantDube/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
