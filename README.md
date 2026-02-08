@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/vedantDube/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vedantDube/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/vedantDube/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/vedantDube/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/vedantDube/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/vedantDube/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/vedantDube/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/vedantDube/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/vedantDube/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/vedantDube/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/vedantDube/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Binary Indexed Tree
 |  |
