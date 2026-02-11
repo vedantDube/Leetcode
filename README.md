@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/vedantDube/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/vedantDube/Leetcode/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/vedantDube/Leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/vedantDube/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vedantDube/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0792-binary-search) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/vedantDube/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
