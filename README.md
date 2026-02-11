@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/vedantDube/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/vedantDube/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/vedantDube/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/vedantDube/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1929-concatenation-of-array](https://github.com/vedantDube/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/vedantDube/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vedantDube/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vedantDube/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/vedantDube/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vedantDube/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/vedantDube/Leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
