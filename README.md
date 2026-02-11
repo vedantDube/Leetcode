@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vedantDube/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/vedantDube/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/vedantDube/Leetcode/tree/master/1036-rotting-oranges) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/vedantDube/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0792-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vedantDube/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vedantDube/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
