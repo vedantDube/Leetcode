@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vedantDube/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vedantDube/Leetcode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/vedantDube/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/vedantDube/Leetcode/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vedantDube/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedantDube/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vedantDube/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vedantDube/Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/vedantDube/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/vedantDube/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/vedantDube/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/vedantDube/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vedantDube/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/vedantDube/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/vedantDube/Leetcode/tree/master/0792-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
