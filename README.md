@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vedantDube/Leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/vedantDube/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/vedantDube/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0932-beautiful-array](https://github.com/vedantDube/Leetcode/tree/master/0932-beautiful-array) |
 | [1013-fibonacci-number](https://github.com/vedantDube/Leetcode/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/vedantDube/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vedantDube/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/vedantDube/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/vedantDube/Leetcode/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/vedantDube/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/vedantDube/Leetcode/tree/master/1046-last-stone-weight) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vedantDube/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/vedantDube/Leetcode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/vedantDube/Leetcode/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/vedantDube/Leetcode/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
