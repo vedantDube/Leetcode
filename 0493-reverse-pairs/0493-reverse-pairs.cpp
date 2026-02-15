@@ -1,67 +1,52 @@
 class Solution {
-
-private:
-void merge(vector<int> &arr, int low, int mid, int high) {
-    vector<int> temp; 
-    int left = low;     
-    int right = mid + 1;  
-
-    
-    while (left <= mid && right <= high) {
-        if (arr[left] <= arr[right]) {
-            temp.push_back(arr[left]);
-            left++;
-        }
-        else {
-            temp.push_back(arr[right]);
-            right++;
-        }
-    }
-
-    
-
-    while (left <= mid) {
-        temp.push_back(arr[left]);
-        left++;
-    }
-
-    
-    while (right <= high) {
-        temp.push_back(arr[right]);
-        right++;
-    }
-
-    
-    for (int i = low; i <= high; i++) {
-        arr[i] = temp[i - low];
-    }
-}
-
-int countPairs(vector<int> &arr, int low, int mid, int high) {
-    int right = mid + 1;
-    int cnt = 0;
-    for (int i = low; i <= mid; i++) {
-        while (right <= high && arr[i]/2.0 > arr[right]) right++;
-        cnt += (right - (mid + 1));
-    }
-    return cnt;
-}
-
-int mergeSort(vector<int> &arr, int low, int high) {
-    int cnt = 0;
-    if (low >= high) return cnt;
-    int mid = (low + high) / 2 ;
-    cnt += mergeSort(arr, low, mid); 
-    cnt += mergeSort(arr, mid + 1, high); 
-    cnt += countPairs(arr, low, mid, high); 
-    merge(arr, low, mid, high);
-    return cnt;
-}
-
-
 public:
+
+    int mergeAndCount(vector<int>& nums, int left, int mid, int right) {
+        int count = 0;
+        int j = mid + 1;
+
+  
+        for(int i = left; i <= mid; i++) {
+            while(j <= right && nums[i] > 2LL * nums[j]) {
+                j++;
+            }
+            count += (j - (mid + 1));
+        }
+
+        
+        vector<int> temp;
+        int i = left, k = mid + 1;
+
+        while(i <= mid && k <= right) {
+            if(nums[i] <= nums[k]) temp.push_back(nums[i++]);
+            else temp.push_back(nums[k++]);
+        }
+
+        while(i <= mid) temp.push_back(nums[i++]);
+        while(k <= right) temp.push_back(nums[k++]);
+
+        
+        for(int i = left; i <= right; i++) {
+            nums[i] = temp[i - left];
+        }
+
+        return count;
+    }
+
+    int mergeSort(vector<int>& nums, int left, int right) {
+        if(left >= right) return 0;
+
+        int mid = left + (right - left) / 2;
+        int count = 0;
+
+        count += mergeSort(nums, left, mid);
+        count += mergeSort(nums, mid + 1, right);
+        count += mergeAndCount(nums, left, mid, right);
+
+        return count;
+    }
+
     int reversePairs(vector<int>& nums) {
-        return mergeSort(nums, 0, nums.size()-1);
-}
-    
+        return mergeSort(nums, 0, nums.size() - 1);
+    }
 };
