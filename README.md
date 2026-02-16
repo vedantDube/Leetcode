@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vedantDube/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/vedantDube/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/vedantDube/Leetcode/tree/master/0455-assign-cookies) |
+| [0481-magical-string](https://github.com/vedantDube/Leetcode/tree/master/0481-magical-string) |
 | [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/vedantDube/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/vedantDube/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vedantDube/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/vedantDube/Leetcode/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/vedantDube/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0481-magical-string](https://github.com/vedantDube/Leetcode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/vedantDube/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/vedantDube/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/vedantDube/Leetcode/tree/master/0567-permutation-in-string) |
